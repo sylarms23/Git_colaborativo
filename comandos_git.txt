@@ -3,3 +3,9 @@
 3.- git commit -m "primeros 2 comandos de git"
 4.- git remote add origin url-de github
 5.- git push -u origin master
+
+Para actualizar
+2.-
+3.-
+5.-
+
