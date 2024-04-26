@@ -1,1 +1,5 @@
 1.- git init
+2.- git add.  /  git add NombreArchivo.ext
+3.- git commit -m "primeros 2 comandos de git"
+4.- git remote add origin url-de github
+5.- git push -u origin master
